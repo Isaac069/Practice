@@ -1,0 +1,160 @@
+EDU1001| Musa |Male| Kenya |UI/UX |21|75000| 5|60
+EDU1002| Chioma |MALE|  nigeria|Data Analytics |18|50000| 5|70
+EDU1003| Ada |MALE| Ghana|cybersecurity ||120000| 5|90
+EDU1004| Grace |Male| Ghana|cybersecurity |24|100000| 8|65
+EDU1005| Amina |male| Nigeria|Data Analytics |24|50000| 8|80
+EDU1006| Grace |Male| Kenya |Cybersecurity ||50000| 10|60
+EDU1007| John |FEMALE| GHANA |UI/UX |21|50000| 3|70
+EDU1008| John |Male| Ghana|Data Analytics |24|100000| 10|80
+EDU1009| Ifeanyi |male| Kenya|Digital Marketing |22|50000| 12|65
+EDU1010| David |Female|  nigeria|Cybersecurity |22|| 5|80
+EDU1011| Tunde |Female| Nigeria|UI/UX |24|100000| 3|70
+EDU1012| Mary |Female| Kenya |Cybersecurity |24|120000| 5|75
+EDU1013| Bola |Female| Kenya |Data analytics ||100000| |85
+EDU1014| Fatima |male| Ghana|Digital Marketing ||120000| 3|55
+EDU1015| Musa |Female| Kenya |Digital Marketing |24|| 3|85
+EDU1016| Fatima |MALE|  nigeria|Data analytics |22|| 3|60
+EDU1017| Grace |FEMALE| Kenya|Data Analytics |22|120000| 5|90
+EDU1018| Ada |FEMALE| Kenya |UI/UX ||75000| 12|60
+EDU1019| John |FEMALE| GHANA |Data analytics |21|75000| 8|65
+EDU1020| Ada |MALE| Kenya|Cybersecurity |18|50000| 8|75
+EDU1021| David |Male| Ghana|Data analytics |19|50000| |90
+EDU1022| Chioma |MALE| Ghana|Digital Marketing |25|| 5|75
+EDU1023| Esther |Female| GHANA |cybersecurity |21|100000| 10|80
+EDU1024| Daniel |MALE|  nigeria|Data Analytics |21|75000| 3|80
+EDU1025| Ada |MALE| GHANA |Digital Marketing |21|50000| 3|55
+
+EDU1027| Ruth |Female| GHANA |Digital Marketing |25|75000| 10|85
+EDU1028| Amina |Male| Nigeria|cybersecurity |24|100000| 10|85
+EDU1029| Daniel |FEMALE| Nigeria|cybersecurity |19|50000| 10|80
+EDU1030| Musa |Female| Ghana|Digital Marketing ||120000| 5|85
+EDU1031| Ifeanyi |male|  nigeria|Digital Marketing |19|120000| 12|60
+EDU1032| Tunde |FEMALE| GHANA |Data Analytics |19|75000| 5|85
+EDU1033| Ruth |female| Ghana|Cybersecurity |18|75000| 10|55
+EDU1034| Fatima |male|  nigeria|UI/UX |24|| |90
+EDU1035| Bola |Female| Kenya|Digital Marketing |18|| |
+EDU1036| Tunde |FEMALE| Kenya|Data Analytics |18|| 10|
+EDU1037| Ifeanyi |Male| GHANA |Data Analytics |20|50000| 12|60
+EDU1038| David |female| Nigeria|Data analytics |21|| 12|55
+EDU1039| Chioma |female| Kenya |Data analytics ||100000| 8|70
+EDU1040| Mary |Female| Kenya|Cybersecurity |20|100000| 10|80
+EDU1006| Grace |Male| Kenya |Cybersecurity ||50000| 10|60
+EDU1042| Grace |Female| Kenya|Data Analytics |21|100000| 8|65
+EDU1043| Daniel |MALE| Kenya |UI/UX ||50000| |
+EDU1044| John |FEMALE| Nigeria|Digital Marketing |22|50000| 3|
+EDU1045| Bola |male| Kenya|Data analytics |21|100000| 5|75
+EDU1046| Ruth |male| Nigeria|Data Analytics |24|100000| 3|55
+EDU1047| Mary |Female| Kenya |UI/UX |20|120000| 12|85
+EDU1048| Ada |Male| Nigeria|cybersecurity |20|| 3|80
+EDU1049| Bola |female| Ghana|Data Analytics |22|100000| 3|80
+EDU1050| Amina |FEMALE| Ghana|cybersecurity |19|100000| 12|85
+EDU1051| Bola |Female| Ghana|Digital Marketing |24|50000| 5|80
+EDU1052| Esther |FEMALE| Kenya |Digital Marketing |22|75000| |60
+EDU1053| Fatima |Male|  nigeria|Digital Marketing |21|120000| 8|75
+EDU1054| David |Female| Nigeria|cybersecurity |21|120000| 8|75
+EDU1055| Chioma |male| Kenya|cybersecurity ||120000| |
+EDU1056| Mary |Male| Nigeria|UI/UX |20|| 8|55
+EDU1057| Musa |MALE|  nigeria|UI/UX |23|120000| 12|
+EDU1058| Musa |female| GHANA |Digital Marketing |22|50000| |85
+EDU1059| Ada |MALE| GHANA |cybersecurity |21|100000| 10|60
+EDU1060| Mary |MALE| Kenya|cybersecurity |19|100000| 12|75
+EDU1061| Esther |male|  nigeria|cybersecurity |22|| 5|70
+EDU1062| Esther |FEMALE|  nigeria|cybersecurity |20|| 12|75
+EDU1063| Fatima |MALE| Nigeria|UI/UX |22|75000| 10|80
+EDU1064| Daniel |female|  nigeria|cybersecurity |21|| 10|65
+EDU1065| Chioma |male| GHANA |cybersecurity |23|50000| 5|75
+EDU1066| David |Female| Ghana|Data Analytics |18|75000| 10|60
+EDU1067| Daniel |female| Kenya |Data analytics |21|120000| 10|85
+EDU1068| David |Female| Kenya |cybersecurity |18|50000| 10|70
+EDU1069| Ifeanyi |FEMALE| GHANA |Cybersecurity |18|| 5|60
+EDU1070| Daniel |Female|  nigeria|cybersecurity ||| 12|80
+EDU1071| Daniel |MALE| Kenya |Data analytics |24|| 10|65
+EDU1072| Ruth |female| Kenya|Digital Marketing |22|| 10|70
+EDU1073| Grace |female| Nigeria|cybersecurity |22|75000| 8|80
+EDU1074| Mary |MALE| Nigeria|Digital Marketing |20|75000| 10|65
+EDU1075| Amina |Male|  nigeria|Cybersecurity |23|| 10|85
+EDU1076| Tunde |Female|  nigeria|Cybersecurity |18|| 10|90
+EDU1077| Ada |male| Kenya|Cybersecurity |24|| |
+EDU1078| David |female| Ghana|UI/UX |24|120000| 3|85
+EDU1079| Mary |FEMALE| Kenya |Cybersecurity |20|120000| 5|
+EDU1080| Ada |female| GHANA |Data analytics |18|50000| |85
+
+EDU1082| Daniel |male| Kenya|Cybersecurity |22|120000| 8|60
+EDU1083| Ruth |Male| Kenya |Data analytics |18|100000| 5|60
+EDU1084| Tunde |Male| Ghana|Digital Marketing |18|| 5|70
+EDU1085| Bola |female| Kenya |Data Analytics |21|120000| |75
+EDU1086| Emeka |Female| GHANA |Data analytics |19|75000| 8|60
+EDU1087| Ada |male| GHANA |cybersecurity |24|120000| |70
+EDU1088| Chioma |MALE| Kenya |cybersecurity |21|50000| |75
+EDU1089| Musa |MALE| Nigeria|UI/UX ||120000| |80
+EDU1090| Chioma |MALE| Kenya |UI/UX |18|120000| 10|60
+EDU1021| David |Male| Ghana|Data analytics |19|50000| |90
+EDU1092| Grace |MALE| GHANA |Cybersecurity |25|120000| |75
+EDU1093| Mary |Female| Nigeria|UI/UX |25|75000| 10|85
+EDU1094| Mary |Male|  nigeria|UI/UX |20|120000| 5|80
+EDU1095| Grace |male| Kenya|Data analytics |22|| 3|
+EDU1096| Amina |Male| Ghana|cybersecurity |24|120000| 12|70
+EDU1097| Ruth |FEMALE| Kenya |Cybersecurity |25|50000| 3|75
+EDU1098| David |female| Kenya |Digital Marketing |22|| 8|90
+EDU1099| Emeka |female| Kenya |Data analytics |23|100000| |90
+EDU1100| Grace |male| Kenya|Digital Marketing |19|75000| 8|60
+EDU1101| Ifeanyi |Female| Ghana|cybersecurity |25|100000| |
+EDU1102| John |Male| Ghana|UI/UX |21|100000| 5|75
+EDU1103| Ada |FEMALE| GHANA |Digital Marketing |22|50000| 3|
+EDU1104| John |FEMALE| Ghana|cybersecurity |25|50000| 3|75
+EDU1105| Ruth |female|  nigeria|UI/UX |20|50000| 8|90
+EDU1106| Musa |Male|  nigeria|Cybersecurity |19|| |55
+EDU1107| Bola |Female| GHANA |UI/UX |19|75000| 3|
+EDU1108| Esther |MALE| GHANA |Data analytics |21|| 10|90
+EDU1109| Daniel |male| GHANA |Cybersecurity |22|| 12|55
+EDU1110| Musa |Female| Kenya |Digital Marketing |22|50000| 5|70
+EDU1111| Ifeanyi |MALE| Nigeria|Digital Marketing |18|120000| 10|90
+EDU1112| John |Male| Ghana|UI/UX |22|120000| 3|70
+EDU1113| Grace |FEMALE| GHANA |cybersecurity |21|120000| 3|
+EDU1114| David |FEMALE| Ghana|UI/UX |20|50000| 3|65
+EDU1115| John |MALE| Kenya |Data analytics |22|120000| 3|90
+EDU1116| John |FEMALE|  nigeria|UI/UX ||| 10|90
+EDU1117| Chioma |MALE| Nigeria|Cybersecurity |23|| 8|55
+EDU1118| Chioma |Female| Kenya |Data analytics |18|100000| 12|55
+EDU1119| Ifeanyi |female| GHANA |cybersecurity |25|100000| 5|85
+EDU1120| Ruth |Male|  nigeria|UI/UX |24|100000| 8|60
+
+EDU1122| Tunde |female| Nigeria|UI/UX |22|100000| 3|85
+EDU1123| Ada |FEMALE| GHANA |Cybersecurity |24|50000| 5|
+EDU1124| Emeka |MALE|  nigeria|cybersecurity |25|50000| 5|75
+EDU1125| Bola |male|  nigeria|cybersecurity |25|50000| 3|70
+EDU1126| Ifeanyi |male| GHANA |Data Analytics ||120000| 3|70
+EDU1127| Musa |female| Nigeria|cybersecurity |20|120000| |75
+EDU1128| Grace |female|  nigeria|Cybersecurity |21|120000| 12|65
+EDU1129| Fatima |Female| GHANA |Data analytics |20|50000| 8|85
+EDU1130| Mary |MALE| Kenya|Data Analytics |22|100000| 12|90
+EDU1021| David |Male| Ghana|Data analytics |19|50000| |90
+EDU1132| Fatima |female| Kenya|Digital Marketing |21|| 10|70
+EDU1133| Esther |Male| Kenya|cybersecurity |25|120000| 10|65
+EDU1134| Ruth |Male| Ghana|Data analytics |23|50000| 10|60
+EDU1135| Daniel |Male| Kenya |Digital Marketing |24|75000| 3|90
+EDU1136| Grace |male| GHANA |cybersecurity |24|50000| 8|
+EDU1137| Fatima |male| Kenya |cybersecurity |25|| 3|60
+EDU1138| David |FEMALE| Kenya |UI/UX |21|50000| 10|60
+EDU1139| Musa |female| Ghana|cybersecurity |22|50000| 3|80
+EDU1140| Tunde |male| Kenya|UI/UX |24|75000| 5|
+EDU1141| Esther |MALE| Kenya |Digital Marketing |20|75000| 3|85
+EDU1142| David |female| GHANA |Digital Marketing |21|120000| |75
+EDU1143| Daniel |male| Kenya |Data Analytics |25|100000| |
+EDU1144| Ifeanyi |Male|  nigeria|UI/UX |22|120000| |75
+EDU1145| Daniel |male| Ghana|Cybersecurity |25|50000| 5|85
+EDU1146| Emeka |MALE| Kenya|cybersecurity |22|50000| |85
+EDU1147| Grace |Male| GHANA |cybersecurity |18|| |90
+EDU1148| John |Female| GHANA |UI/UX |21|75000| 12|75
+EDU1149| Bola |FEMALE| Nigeria|cybersecurity |18|100000| 10|55
+EDU1150| Emeka |FEMALE| Ghana|Data Analytics |22|100000| |85
+EDU1151| Ifeanyi |Female| Ghana|Data analytics |23|| 12|75
+EDU1152| Ifeanyi |male|  nigeria|UI/UX |23|50000| 10|60
+EDU1153| Bola |Female| Kenya |cybersecurity |24|| 8|60
+EDU1154| Fatima |Male| Kenya|Data analytics |19|120000| 8|75
+EDU1155| Fatima |FEMALE| Kenya|Data Analytics |21|120000| 3|
+EDU1156| Mary |MALE| Ghana|cybersecurity |19|120000| |75
+EDU1157| Esther |Male| Ghana|Data Analytics |18|100000| 10|60
+EDU1158| Musa |Female| GHANA |Digital Marketing |24|120000| 8|
+EDU1159| Esther |MALE| Kenya |cybersecurity |20|120000| |60
+EDU1160| Ruth |MALE|  nigeria|UI/UX |18|100000| 5|90
